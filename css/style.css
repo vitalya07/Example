@@ -19,6 +19,26 @@ body {
     font-weight: 400;
     font-size: 20px;
 }
+.bg-0 {
+    background-color:  #303030;
+    padding: 20px 20px;
+ }
+ .block-0 {
+     padding: 30px 40px;
+     width: 400px;
+     height: 400px;
+     background-color: #ff0000;
+ }
+ .btn-0 {
+     background-color: #d4800a;
+ }
+ .text-0 {
+     color: #474747;
+     font-family: 'Archangelsk', sans-serif;
+     font-weight: 400;
+     font-size: 20px;
+ }
+
 .bg-1 {
    background-color:  #F5F5F5;
    padding: 20px 20px;
