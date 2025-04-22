@@ -47,3 +47,8 @@ body {
     height: 300px;
     background-color: #000;
 }
+.block__text {
+    font-family: "Lora", serif;
+    font-weight: 700;
+    color: #fff;
+}
